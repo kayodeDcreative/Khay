@@ -1,1 +1,1 @@
-# Khay This is mt first repository when i started out in tech
+First repository when I started out as a developer
